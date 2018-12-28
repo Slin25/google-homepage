@@ -5,7 +5,7 @@ img {
     max-width: 25%;
     height: auto;
 }
-.search {
+.search input {
     margin: 0 30% 0 30%;
     width: 40%;
     padding: 10px;
@@ -17,4 +17,10 @@ img {
 }
 .words p {
     text-align: center;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
 }
