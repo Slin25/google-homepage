@@ -24,3 +24,6 @@ img {
 .right {
     float: right;
 }
+.right img {
+    margin-right: 10%;
+}
