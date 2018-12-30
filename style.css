@@ -23,8 +23,5 @@
 }
 .right {
     float: right;
-}
-.corner img {
     margin-right: 10%;
-    display: block;
 }
