@@ -1,7 +1,7 @@
-img {
+.logo img {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin-left: 37%;
+    margin-right: 37%;
     max-width: 25%;
     height: auto;
 }
@@ -24,6 +24,7 @@ img {
 .right {
     float: right;
 }
-.right img {
+.corner img {
     margin-right: 10%;
+    display: block;
 }
